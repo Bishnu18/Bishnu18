@@ -4,25 +4,19 @@
 <!--                    ANIMATED HEADER                        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Bishnu%20Basudev%20Patra&fontSize=50&fontAlignY=38&fontColor=FFFFFF&desc=☕%20Java%20Full%20Stack%20Developer%20%7C%20☁️%20DevOps%20Engineer&descAlignY=58&descSize=18&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn&stroke=6B48FF&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Bishnu%20Basudev%20Patra&fontSize=50&fontAlignY=38&fontColor=FFFFFF&desc=Java%20Full%20Stack%20Developer%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=20&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn" width="100%" />
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                   TYPING ANIMATION                        -->
+<!--              STATIC ROLE BADGES (always work)             -->
 <!-- ══════════════════════════════════════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=🚀+Building+Scalable+Microservices;☁️+AWS+%7C+Docker+%7C+Kubernetes+Engineer;⚙️+Automating+CI%2FCD+Pipelines;🌱+Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    PROFILE VIEWS                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
+![Java Dev](https://img.shields.io/badge/☕_Java_Full_Stack_Developer-0f0c29?style=for-the-badge&logoColor=white)
+![DevOps](https://img.shields.io/badge/♾️_DevOps_%26_Cloud_Engineer-302b63?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/☁️_AWS_%7C_Docker_%7C_Kubernetes-24243e?style=for-the-badge&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USER&style=for-the-badge&color=6B48FF&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USER?style=for-the-badge&color=A78BFA&labelColor=0D0D1A)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USER?style=for-the-badge&color=6B48FF&labelColor=0D0D1A)
-
-<br/>
+<br/><br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL LINKS                           -->
@@ -41,7 +35,7 @@
 <!--                      ABOUT ME                             -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" style="border-radius: 12px;" />
+<img align="right" alt="Coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" />
 
 ## 🧑‍🚀 About Me
 
@@ -54,13 +48,13 @@ currently : Building microservices & CI/CD pipelines
 passion   : Automating everything that can be automated
 ```
 
-- 🎓 **Computer Science Graduate** — Centurion University  
-- ☕ **Backend Artisan** — Java, Spring Boot, REST APIs  
-- ☁️ **Cloud Native** — AWS (EC2, S3, RDS, IAM)  
-- 🐳 **Container Whisperer** — Docker + Kubernetes  
-- ⚙️ **Pipeline Builder** — Jenkins, Maven, GitHub Actions  
-- 🔭 Currently exploring **Microservices + Service Mesh**  
-- 💬 Ask me about **Spring Boot, AWS, Docker, DevOps**  
+- 🎓 **Computer Science Graduate** — Centurion University
+- ☕ **Backend Artisan** — Java, Spring Boot, REST APIs
+- ☁️ **Cloud Native** — AWS (EC2, S3, RDS, IAM)
+- 🐳 **Container Whisperer** — Docker + Kubernetes
+- ⚙️ **Pipeline Builder** — Jenkins, Maven, GitHub Actions
+- 🔭 Currently exploring **Microservices + Service Mesh**
+- 💬 Ask me about **Spring Boot, AWS, Docker, DevOps**
 - ⚡ Fun fact: I automate tasks even before coffee ☕
 
 <br clear="right"/>
@@ -122,7 +116,7 @@ passion   : Automating everything that can be automated
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                  SKILL PROGRESS BARS                      -->
+<!--         SKILL PROGRESS BARS — static, always works        -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ## 📈 Skill Proficiency
@@ -130,10 +124,10 @@ passion   : Automating everything that can be automated
 ```
 Java & Spring Boot   ████████████████████░   95%
 Docker & Kubernetes  ███████████████████░░   90%
-AWS Cloud Services   ██████████████████░░░   85%
-CI/CD (Jenkins)      ██████████████████░░░   85%
-React & Frontend     ████████████████░░░░░   80%
 Linux / Bash         ███████████████████░░   90%
+AWS Cloud Services   ██████████████████░░░   85%
+CI/CD — Jenkins      ██████████████████░░░   85%
+React & Frontend     ████████████████░░░░░   80%
 MySQL / PostgreSQL   ████████████████░░░░░   80%
 ```
 
@@ -161,11 +155,9 @@ Scalable backend with **Spring Boot microservices** + **API Gateway** + **Servic
 
 **Key Highlights:**
 - ✅ Event-driven with Kafka messaging
-- ✅ JWT-based Auth via Spring Security  
+- ✅ JWT-based Auth via Spring Security
 - ✅ Persistent storage on PostgreSQL/RDS
 - ✅ Horizontal pod autoscaling on K8s
-
-[![View Project](https://img.shields.io/badge/View_Project-6B48FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 
 </td>
 <td width="50%" valign="top">
@@ -183,8 +175,6 @@ End-to-end automated pipeline: **Build → Test → Dockerize → Deploy**. Zero
 - ✅ SonarQube code quality gates
 - ✅ Blue-green deployments on EC2
 - ✅ Bash scripts for server provisioning
-
-[![View Project](https://img.shields.io/badge/View_Project-6B48FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 
 </td>
 </tr>
@@ -204,8 +194,6 @@ Full-stack application with **React frontend** + **Spring Boot REST API** + **My
 - ✅ JWT authentication end-to-end
 - ✅ AWS S3 + EC2 deployment
 
-[![View Project](https://img.shields.io/badge/View_Project-6B48FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-
 </td>
 <td width="50%" valign="top">
 
@@ -222,8 +210,6 @@ Infrastructure-as-Code setup for production-grade AWS environments with VPC, sub
 - ✅ RDS Multi-AZ for high availability
 - ✅ CloudWatch monitoring & alerts
 
-[![View Project](https://img.shields.io/badge/View_Project-6B48FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-
 </td>
 </tr>
 </table>
@@ -233,7 +219,7 @@ Infrastructure-as-Code setup for production-grade AWS environments with VPC, sub
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATISTICS                       -->
+<!--   GITHUB STATS — paste your real username to activate     -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Statistics
@@ -245,35 +231,27 @@ Infrastructure-as-Code setup for production-grade AWS environments with VPC, sub
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USER&theme=tokyonight&hide_border=true&background=0D1117&ring=6B48FF&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" height="180px"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USER&theme=tokyonight&hide_border=true&background=0D1117&ring=6B48FF&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" height="180px"/>
 
 </div>
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH                          -->
+<!--       CURRENT FOCUS TABLE — static, always works          -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-## 🗺️ Contribution Map
+## 🔥 Current Focus
 
 <div align="center">
 
-[![Bishnu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USER&bg_color=0D1117&color=A78BFA&line=6B48FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   ACHIEVEMENTS                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USER&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+| Area | Tech | Status |
+|:-----|:-----|:------:|
+| 🏗️ Microservices Architecture | Spring Boot + Kafka + Eureka | 🟢 Active |
+| ☁️ Cloud Infrastructure | AWS EKS + Terraform | 🟢 Active |
+| 🔄 CI/CD Pipelines | Jenkins + GitHub Actions | 🟡 Improving |
+| 🌐 Frontend Enhancement | React + TypeScript | 🟡 Learning |
+| 🔒 Security Hardening | Spring Security + OAuth2 | 🔵 Exploring |
 
 </div>
 
@@ -291,11 +269,11 @@ Infrastructure-as-Code setup for production-grade AWS environments with VPC, sub
 |:----------|:---------------|:--------|
 | B.Tech — Computer Science | Centurion University | 2024 |
 
-| 🏅 Certification | 🏢 Issuer | 🔗 |
-|:-----------------|:---------|:---|
-| AWS Certified Solutions Architect | Amazon Web Services | [View](#) |
-| Docker Certified Associate | Docker Inc. | [View](#) |
-| Spring Professional Certification | VMware | [View](#) |
+| 🏅 Certification | 🏢 Issuer |
+|:-----------------|:---------|
+| AWS Certified Solutions Architect | Amazon Web Services |
+| Docker Certified Associate | Docker Inc. |
+| Spring Professional Certification | VMware |
 
 </div>
 
@@ -309,7 +287,7 @@ Infrastructure-as-Code setup for production-grade AWS environments with VPC, sub
 
 ## 💭 Dev Philosophy
 
-> *"Any sufficiently advanced automation is indistinguishable from magic."*  
+> *"Any sufficiently advanced automation is indistinguishable from magic."*
 > — A DevOps Engineer, probably ☕
 
 </div>
@@ -334,30 +312,20 @@ Infrastructure-as-Code setup for production-grade AWS environments with VPC, sub
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 
-📍 **Location:** India  
-📧 **Email:** your-email@gmail.com  
-🔗 **LinkedIn:** [Bishnu Basudev Patra](https://linkedin.com/in/your-linkedin-username)
+📍 **Location:** India &nbsp;|&nbsp; 📧 **Email:** your-email@gmail.com &nbsp;|&nbsp; 🔗 **LinkedIn:** [Bishnu Basudev Patra](https://linkedin.com/in/your-linkedin-username)
 
 </div>
 
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                     FOOTER SNAKE                          -->
+<!--                       FOOTER                              -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🐍 Watch the Snake Eat My Contributions!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f0c29,50:302b63,100:24243e" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_GITHUB_USER/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_GITHUB_USER/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USER/YOUR_GITHUB_USER/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0f0c29,50:302b63,100:24243e&fontColor=FFFFFF" width="100%" />
+*"Write code. Break things. Fix things. Automate everything."* 🚀
 
 </div>
