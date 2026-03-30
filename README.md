@@ -24,7 +24,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishnubasudevpatra@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username)
 
 </div>
@@ -218,23 +218,6 @@ Infrastructure-as-Code setup for production-grade AWS environments with VPC, sub
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--   GITHUB STATS — paste your real username to activate     -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=6B48FF&text_color=C9D1D9&ring_color=6B48FF" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USER&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="180px"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_GITHUB_USER&theme=tokyonight&hide_border=true&background=0D1117&ring=6B48FF&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" height="180px"/>
-
-</div>
-
 ---
 
 <!-- ══════════════════════════════════════════════════════════ -->
@@ -247,10 +230,9 @@ Infrastructure-as-Code setup for production-grade AWS environments with VPC, sub
 
 | Area | Tech | Status |
 |:-----|:-----|:------:|
-| 🏗️ Microservices Architecture | Spring Boot + Kafka + Eureka | 🟢 Active |
+| 🏗️ Microservices Architecture | Spring Boot | 🟢 Active |
 | ☁️ Cloud Infrastructure | AWS EKS + Terraform | 🟢 Active |
 | 🔄 CI/CD Pipelines | Jenkins + GitHub Actions | 🟡 Improving |
-| 🌐 Frontend Enhancement | React + TypeScript | 🟡 Learning |
 | 🔒 Security Hardening | Spring Security + OAuth2 | 🔵 Exploring |
 
 </div>
@@ -271,9 +253,7 @@ Infrastructure-as-Code setup for production-grade AWS environments with VPC, sub
 
 | 🏅 Certification | 🏢 Issuer |
 |:-----------------|:---------|
-| AWS Certified Solutions Architect | Amazon Web Services |
-| Docker Certified Associate | Docker Inc. |
-| Spring Professional Certification | VMware |
+| Java Full Stack | Wipro |
 
 </div>
 
@@ -309,10 +289,10 @@ Infrastructure-as-Code setup for production-grade AWS environments with VPC, sub
 ```
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishnubasudevpatra@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
 
-📍 **Location:** India &nbsp;|&nbsp; 📧 **Email:** your-email@gmail.com &nbsp;|&nbsp; 🔗 **LinkedIn:** [Bishnu Basudev Patra](https://linkedin.com/in/your-linkedin-username)
+📍 **Location:** India &nbsp;|&nbsp; 📧 **Email:** bishnubasudevpatra@gmail.com &nbsp;|&nbsp; 🔗 **LinkedIn:** [Bishnu Basudev Patra](https://linkedin.com/in/your-linkedin-username)
 
 </div>
 
